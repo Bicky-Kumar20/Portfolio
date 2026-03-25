@@ -25,7 +25,7 @@ const Navbar = ({ onToggleDark, darkMode }) => {
         <li><a href="#experience" onClick={handleLinkClick}>Experience</a></li>
         <li><a href="#education" onClick={handleLinkClick}>Education</a></li>
         <li><a href="#contact" onClick={handleLinkClick}>Contact</a></li>
-        <li><a href="../public/BickyResume.pdf" target="_blank" rel="noopener noreferrer" className="btn navbar-resume">Download Resume</a></li>
+        <li><a href="/BickyResume.pdf" target="_blank" rel="noopener noreferrer" className="btn navbar-resume">Download Resume</a></li>
       </ul>
       <button className="dark-toggle" onClick={handleToggleDark} title="Toggle dark mode">
         <span className={spin ? 'toggle-spin' : ''}>{darkMode ? '🌙' : '☀️'}</span>
