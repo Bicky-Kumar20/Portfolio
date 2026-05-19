@@ -65,7 +65,7 @@ const Home = () => {
                 View My Work
               </button>
               <a 
-                href="/BickyResume.pdf" 
+                href="/Bicky-Kumar-resume.pdf" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="btn secondary"
