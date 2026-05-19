@@ -1,7 +1,7 @@
 import React from 'react';
 import { TypeAnimation } from 'react-type-animation';
 import { FaGithub, FaLinkedin, FaEnvelope, FaDownload, FaArrowDown } from 'react-icons/fa';
-import BickyImg from '../assets/Bicky-bg.png';
+import BickyImg from '../assets/Bicky-bg2.png';
 
 const Home = () => {
   const scrollToSection = (sectionId) => {
