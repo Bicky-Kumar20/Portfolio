@@ -20,7 +20,7 @@ const educationData = [
     icon: <FaSchool />,
     degree: 'Secondary School (Class 10th)',
     institution: 'R D M high School Garhani, Bhojpur (BSEB)',
-    period: '2018 – 2019',
+    period: '2019 – 2020',
     description: 'Completed foundational education with a focus on Mathematics and Science under the BSEB board.'
   }
 ];
